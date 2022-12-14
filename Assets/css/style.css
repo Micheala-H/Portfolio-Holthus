@@ -1,0 +1,31 @@
+:root {
+--tan: 
+}
+
+body{
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+h1{
+    font-size: 2.5rem;
+    
+}
+ 
+h2{
+    font-size: 2rem
+}
+
+header {
+    padding: 40px;
+    text-align: right;
+
+}
+
+nav{
+    padding: 5px;
+    margin:5px;
+    
+}
